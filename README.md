@@ -3,7 +3,7 @@
 
   <p>
     
-     🔥 Desenvolvedor Júnior Full-Stack 
+     🔥 Desenvolvedor Júnior
   
      📚 Cursei 3 anos de bacharelado de Física Nuclear na UFMG, após descobrir a programação comecei minha jornada de estudos na área. atualmente realizo o curso de Ciência da computação com ênfase em Fullstack dev,
 já realizei cursos de HTML5, CSS3 e Javascript além de React Native, typescript e Next.js, trabalhei em uma propTech como estagiário de desenvolvimento de software e atualmente atuo como desenvolvedor Fullstack Júnior.
@@ -46,7 +46,7 @@ já realizei cursos de HTML5, CSS3 e Javascript além de React Native, typescrip
 
 ### Estudando no momento:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+JAVA
 
 ### Contatos:
 
