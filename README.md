@@ -8,7 +8,7 @@
      📚 Cursei 3 anos de bacharelado de Física Nuclear na UFMG, após descobrir a programação comecei minha jornada de estudos na área. atualmente realizo o curso de Ciência da computação com ênfase em Fullstack dev,
 já realizei cursos de HTML5, CSS3 e Javascript além de React Native, typescript e Next.js, trabalhei em uma propTech como estagiário de desenvolvimento de software e atualmente atuo como desenvolvedor Fullstack Júnior.
 
-     🧠 Atualmente estudando Node.js
+     🧠 Atualmente estudando JAVA
       
      👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
     
